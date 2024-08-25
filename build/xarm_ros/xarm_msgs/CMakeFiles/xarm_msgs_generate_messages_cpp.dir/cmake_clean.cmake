@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/xarm_msgs_generate_messages_cpp"
+  "/home/tbs/xarm/devel/include/xarm_msgs/IOState.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/RobotMsg.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/CIOState.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GripperState.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GetSetModbusData.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetModbusTimeout.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/MoveAxisAngle.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GetErr.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GripperConfig.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/Move.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/ClearErr.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/FtCaliLoad.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetAxis.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GetDigitalIO.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GetFloat32List.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/FtIdenLoad.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/Call.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/ConfigToolModbus.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/TCPOffset.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetLoad.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetDigitalIO.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetMultipleInts.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/PlayTraj.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/MoveVelo.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GetControllerDigitalIO.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GripperMove.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetControllerAnalogIO.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetString.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/MoveVelocity.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetFloat32.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GetInt32.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetToolModbus.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/GetAnalogIO.h"
+  "/home/tbs/xarm/devel/include/xarm_msgs/SetInt16.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/xarm_msgs_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

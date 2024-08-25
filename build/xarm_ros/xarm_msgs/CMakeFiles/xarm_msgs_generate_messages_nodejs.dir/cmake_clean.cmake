@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/xarm_msgs_generate_messages_nodejs"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/msg/IOState.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/msg/RobotMsg.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/msg/CIOState.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GripperState.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GetSetModbusData.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetModbusTimeout.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/MoveAxisAngle.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GetErr.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GripperConfig.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/Move.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/ClearErr.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/FtCaliLoad.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetAxis.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GetDigitalIO.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GetFloat32List.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/FtIdenLoad.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/Call.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/ConfigToolModbus.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/TCPOffset.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetLoad.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetDigitalIO.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetMultipleInts.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/PlayTraj.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/MoveVelo.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GetControllerDigitalIO.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GripperMove.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetControllerAnalogIO.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetString.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/MoveVelocity.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetFloat32.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GetInt32.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetToolModbus.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/GetAnalogIO.js"
+  "/home/tbs/xarm/devel/share/gennodejs/ros/xarm_msgs/srv/SetInt16.js"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/xarm_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
